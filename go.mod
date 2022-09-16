@@ -1,6 +1,6 @@
 module agora-tutorial-server
 
-go 1.17
+go 1.23
 
 require (
 	github.com/AgoraIO-Community/go-tokenbuilder v1.0.0
